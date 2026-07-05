@@ -2,12 +2,21 @@ class Solution {
 public:
 
     bool dfs(vector<vector<int>>& adj,int i,vector<int>& color,int curr){
+        queue<int> q;
         color[i]=curr;
+        q.push(i);
 
-        for(int x:adj[i]){
-            if(color[i]==color[x]) return false;
-            else if(color[x]==-1){
-                if(!dfs(adj,x,color,!color[i])) return false;
+        while(q.size()){
+            int u=q.front();
+            q.pop();
+
+            for(int x:adj[u]){
+                if(color[x]==color[u]) return false;
+
+                if(color[x]==-1){
+                    color[x]=!color[u];
+                    q.push(x);
+                }
             }
         }
         return true;
@@ -19,7 +28,7 @@ public:
 
         for(int i=0;i<graph.size();i++){
             if(color[i]==-1){
-                if(!dfs(graph,i,color,0)) return false;;
+                if(!dfs(graph,i,color,0)) return false;
             }
         }
         return true;
