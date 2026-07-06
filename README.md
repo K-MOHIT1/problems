@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K-MOHIT1/problems/tree/master/0001-two-sum) |
+| [1288-remove-covered-intervals](https://github.com/K-MOHIT1/problems/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/K-MOHIT1/problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/K-MOHIT1/problems/tree/master/0210-course-schedule-ii) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/K-MOHIT1/problems/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
