@@ -1,47 +1,25 @@
 class Solution {
 public:
-    int find(int x,vector<int>& parent){
-        if(x==parent[x]) return x;
-
-        return parent[x]=find(parent[x],parent);
-    }
-
-    void Union(int x,int y,vector<int>& par){
-
-        int px=find(x,par);
-        int py=find(y,par);
-
-        if(px==py) return;
-
-        par[py]=px;
-
-    }
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-        vector<int> par(n);
+        vector<int> par(n,0);
 
-        for(int i=0;i<n;i++){
-            par[i]  =  i;
+        int com=0;
+
+        for(int i=1;i<n;i++){
+            if(nums[i]-nums[i-1]>maxDiff) com++;
+
+            par[i]=com;
         }
 
-        for(int i=1;i<nums.size();i++){
-            int x=nums[i-1];
-            int y=nums[i];
+        vector<bool> ans;
 
-            if(abs(x-y)<=maxDiff){
-                Union(i-1,i,par);
-            }
+        for(auto x:queries){
+            int u=x[0];
+            int v=x[1];
+
+            if(par[u]==par[v]) ans.push_back(true);
+            else ans.push_back(false);
         }
-
-
-        vector<bool> ans(queries.size());
-
-        for(int i=0;i<queries.size();i++){
-            ans[i]=(find(queries[i][0],par)==find(queries[i][1],par));
-        }
-
         return ans;
-
-
-
     }
 };
