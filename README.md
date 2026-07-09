@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/K-MOHIT1/problems/tree/master/0001-two-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1288-remove-covered-intervals](https://github.com/K-MOHIT1/problems/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K-MOHIT1/problems/tree/master/0001-two-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K-MOHIT1/problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K-MOHIT1/problems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K-MOHIT1/problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K-MOHIT1/problems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -76,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
