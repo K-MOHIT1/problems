@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/K-MOHIT1/problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/K-MOHIT1/problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/K-MOHIT1/problems/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/K-MOHIT1/problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/K-MOHIT1/problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/K-MOHIT1/problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/K-MOHIT1/problems/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/K-MOHIT1/problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/K-MOHIT1/problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/K-MOHIT1/problems/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/K-MOHIT1/problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/K-MOHIT1/problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/K-MOHIT1/problems/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/K-MOHIT1/problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
