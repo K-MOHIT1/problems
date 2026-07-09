@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K-MOHIT1/problems/tree/master/0001-two-sum) |
+| [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1288-remove-covered-intervals](https://github.com/K-MOHIT1/problems/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/K-MOHIT1/problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/K-MOHIT1/problems/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
 ## Graph Theory
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/K-MOHIT1/problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/K-MOHIT1/problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/K-MOHIT1/problems/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/K-MOHIT1/problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
