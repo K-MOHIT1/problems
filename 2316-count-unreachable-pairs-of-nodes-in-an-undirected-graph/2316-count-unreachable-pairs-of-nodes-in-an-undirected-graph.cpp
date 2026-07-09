@@ -1,43 +1,55 @@
 class Solution {
 public:
 
-    void dfs(vector<vector<long long>>& adj,int i,vector<bool>& vis,long long& len){
-        len=len+1;
-        vis[i]=true;
-
-        for(int x:adj[i]){
-            if(!vis[x]) dfs(adj,x,vis,len);
-        }
-
+    int find(int x, vector<int>& parent) {
+        if (x == parent[x]) return x;
+        return parent[x] = find(parent[x], parent);
     }
+
+    void Union(int x, int y, vector<int>& rank, vector<int>& parent) {
+        int px = find(x, parent);
+        int py = find(y, parent);
+
+        if (px == py) return;
+
+        if (rank[px] < rank[py]) {
+            parent[px] = py;
+        }
+        else if (rank[px] > rank[py]) {
+            parent[py] = px;
+        }
+        else {
+            parent[py] = px;
+            rank[px]++;
+        }
+    }
+
     long long countPairs(int n, vector<vector<int>>& edges) {
-        int sz=n;
+        vector<int> rank(n, 0);
+        vector<int> parent(n);
 
-        vector<bool> vis(n,false);
+        for (int i = 0; i < n; i++)
+            parent[i] = i;
 
-        vector<vector<long long>> adj(n);
-
-        for(auto &e : edges){
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
+        for (auto &x : edges) {
+            Union(x[0], x[1], rank, parent);
         }
 
-        long long ans=0;
+        unordered_map<int, int> mp;
 
-        for(int i=0;i<n;i++){
-            long long temp=0;
+        for (int i = 0; i < n; i++) {
+            mp[find(i, parent)]++;
+        }
 
-            if(!vis[i]){
-                dfs(adj,i,vis,temp);
-                ans+=(temp)*(sz-temp);
-                sz=sz-temp;
-            }
+        long long ans = 0;
+        long long sz = n;
 
-
+        for (auto &x : mp) {
+            long long u = x.second;
+            ans += u * (sz - u);
+            sz -= u;
         }
 
         return ans;
-
-
     }
 };
