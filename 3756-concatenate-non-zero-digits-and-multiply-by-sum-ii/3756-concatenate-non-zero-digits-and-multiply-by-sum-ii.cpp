@@ -7,15 +7,11 @@ public:
         vector<int> sum(n, 0);
         vector<long long> dig(n);
         vector<int> k(n, 0);
-
-        // powers of 10
         vector<long long> p10(n + 1);
         p10[0] = 1;
         for (int i = 1; i <= n; i++) {
             p10[i] = (p10[i - 1] * 10LL) % mod;
         }
-
-        // Prefix sum
         for (int i = 0; i < n; i++) {
             if (i > 0)
                 sum[i] = sum[i - 1] + (s[i] - '0');
