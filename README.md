@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/K-MOHIT1/problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/K-MOHIT1/problems/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/K-MOHIT1/problems/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K-MOHIT1/problems/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/K-MOHIT1/problems/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
