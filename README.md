@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/K-MOHIT1/problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/K-MOHIT1/problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
