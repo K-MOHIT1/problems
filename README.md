@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/K-MOHIT1/problems/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/K-MOHIT1/problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/K-MOHIT1/problems/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/K-MOHIT1/problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/K-MOHIT1/problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-MOHIT1/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/K-MOHIT1/problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/K-MOHIT1/problems/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/K-MOHIT1/problems/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |
