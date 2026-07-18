@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/K-MOHIT1/problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/K-MOHIT1/problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-MOHIT1/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/K-MOHIT1/problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/K-MOHIT1/problems/tree/master/1288-remove-covered-intervals) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/K-MOHIT1/problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/K-MOHIT1/problems/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/K-MOHIT1/problems/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/K-MOHIT1/problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/K-MOHIT1/problems/tree/master/0785-is-graph-bipartite) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/K-MOHIT1/problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-MOHIT1/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
 | ------- |
