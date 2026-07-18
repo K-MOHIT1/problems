@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/K-MOHIT1/problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/K-MOHIT1/problems/tree/master/0062-unique-paths) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/K-MOHIT1/problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/K-MOHIT1/problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/K-MOHIT1/problems/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/K-MOHIT1/problems/tree/master/0131-palindrome-partitioning) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/K-MOHIT1/problems/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
