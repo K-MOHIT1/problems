@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/K-MOHIT1/problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/K-MOHIT1/problems/tree/master/1631-path-with-minimum-effort) |
+| [1710-maximum-units-on-a-truck](https://github.com/K-MOHIT1/problems/tree/master/1710-maximum-units-on-a-truck) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/K-MOHIT1/problems/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/K-MOHIT1/problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/K-MOHIT1/problems/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/K-MOHIT1/problems/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/K-MOHIT1/problems/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
