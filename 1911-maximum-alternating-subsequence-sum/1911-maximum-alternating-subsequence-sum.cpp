@@ -14,7 +14,21 @@ public:
         return t[i][sig]=max(skip,take);
     }
     long long maxAlternatingSum(vector<int>& nums) {
-        memset(t,-1,sizeof(t));
+        int n=nums.size();
+        memset(t,0,sizeof(t));  //-1 for rec
+
+
+
+        //bottom up
+        for(int i=1;i<n+1;i++){
+            t[i][0]= max(t[i-1][1]-nums[i-1],t[i-1][0]);
+            t[i][1]= max(t[i-1][0]+nums[i-1],t[i-1][1]);
+        }
+
+        return max(t[n][0],t[n][1]);
+
+
+
         return recur(nums,0,1);
     }
 };
