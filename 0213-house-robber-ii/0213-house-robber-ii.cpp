@@ -20,21 +20,29 @@ public:
 
         if(n==2) return max(nums[0],nums[1]);
 
-        // dp[0]=0;
-        // dp[1]=nums[0];
+        dp[0]=0;
 
-        // for(int i=2;i<=nums.size();i++){
-        //     dp[i]=max(dp[i-1],nums[i-1]+dp[i-2]);
-        // }
+        for(int i=1;i<=n-1;i++){
+            dp[i]=max(dp[i-1],nums[i-1]+((i-2>=0)?dp[i-2]:0));
+        }
 
-        // return dp[nums.size()];
+        int h1= dp[nums.size()-1];
 
-        int h1=recur(nums,0,n-2);
+        // int h1=recur(nums,0,n-2);
 
         dp.clear();
         dp.resize(401,-1);
 
-        int h2=recur(nums,1,n-1);
+        dp[0]=0;
+        dp[1]=0;
+
+        for(int i=2;i<=nums.size();i++){
+            dp[i]=max(dp[i-1],nums[i-1]+((i-2>=0)?dp[i-2]:0));
+        }
+
+        int h2= dp[nums.size()];
+
+        // int h2=recur(nums,1,n-1);
 
 
         
