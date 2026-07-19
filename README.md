@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-MOHIT1/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/K-MOHIT1/problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/K-MOHIT1/problems/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/K-MOHIT1/problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/K-MOHIT1/problems/tree/master/0455-assign-cookies) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/K-MOHIT1/problems/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/K-MOHIT1/problems/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/K-MOHIT1/problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/K-MOHIT1/problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/K-MOHIT1/problems/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/K-MOHIT1/problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/K-MOHIT1/problems/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Combinatorics
