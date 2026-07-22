@@ -48,6 +48,24 @@ bool ispred(string& prev,string& curr){
             return a.size()<b.size();
         });
 
+        //bottom up
+        vector<int> t(n,1);
+        int maxl=1;
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                
+                if(ispred(words[j],words[i])){
+                    t[i]=max(t[j]+1,t[i]);
+                    maxl=max(maxl,t[i]);
+                }
+            }
+        }
+
+        return maxl;
+
+
+
         return lis(words,-1,0);
     }
 };
