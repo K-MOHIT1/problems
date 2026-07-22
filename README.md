@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/K-MOHIT1/problems/tree/master/0455-assign-cookies) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
+| [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/K-MOHIT1/problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/K-MOHIT1/problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K-MOHIT1/problems/tree/master/0001-two-sum) |
+| [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/K-MOHIT1/problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/K-MOHIT1/problems/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/K-MOHIT1/problems/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/K-MOHIT1/problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/K-MOHIT1/problems/tree/master/1710-maximum-units-on-a-truck) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/K-MOHIT1/problems/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/K-MOHIT1/problems/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/K-MOHIT1/problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/K-MOHIT1/problems/tree/master/0131-palindrome-partitioning) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
+| [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-MOHIT1/problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-MOHIT1/problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -172,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/K-MOHIT1/problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/K-MOHIT1/problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
+| [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/K-MOHIT1/problems/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Combinatorics
 |  |
