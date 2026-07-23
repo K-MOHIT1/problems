@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K-MOHIT1/problems/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/K-MOHIT1/problems/tree/master/0141-linked-list-cycle) |
 | [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -110,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/K-MOHIT1/problems/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/K-MOHIT1/problems/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/K-MOHIT1/problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/K-MOHIT1/problems/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/K-MOHIT1/problems/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/K-MOHIT1/problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/K-MOHIT1/problems/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
