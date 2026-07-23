@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/K-MOHIT1/problems/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/K-MOHIT1/problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/K-MOHIT1/problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/K-MOHIT1/problems/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/K-MOHIT1/problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/K-MOHIT1/problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/K-MOHIT1/problems/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/K-MOHIT1/problems/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/K-MOHIT1/problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/K-MOHIT1/problems/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/K-MOHIT1/problems/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K-MOHIT1/problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/K-MOHIT1/problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/K-MOHIT1/problems/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/K-MOHIT1/problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/K-MOHIT1/problems/tree/master/0206-reverse-linked-list) |
 ## Monotonic Stack
 |  |
