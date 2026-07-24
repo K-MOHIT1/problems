@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/K-MOHIT1/problems/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/K-MOHIT1/problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/K-MOHIT1/problems/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/K-MOHIT1/problems/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K-MOHIT1/problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/K-MOHIT1/problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/K-MOHIT1/problems/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/K-MOHIT1/problems/tree/master/1631-path-with-minimum-effort) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/K-MOHIT1/problems/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/K-MOHIT1/problems/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/K-MOHIT1/problems/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/K-MOHIT1/problems/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K-MOHIT1/problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/K-MOHIT1/problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/K-MOHIT1/problems/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/K-MOHIT1/problems/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
