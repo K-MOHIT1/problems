@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/K-MOHIT1/problems/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/K-MOHIT1/problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/K-MOHIT1/problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/K-MOHIT1/problems/tree/master/0143-reorder-list) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/K-MOHIT1/problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/K-MOHIT1/problems/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/K-MOHIT1/problems/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/K-MOHIT1/problems/tree/master/0647-palindromic-substrings) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/K-MOHIT1/problems/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/K-MOHIT1/problems/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/K-MOHIT1/problems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-MOHIT1/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
