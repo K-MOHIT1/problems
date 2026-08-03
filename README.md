@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/K-MOHIT1/problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/K-MOHIT1/problems/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/K-MOHIT1/problems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/K-MOHIT1/problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/K-MOHIT1/problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/K-MOHIT1/problems/tree/master/0647-palindromic-substrings) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/K-MOHIT1/problems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-MOHIT1/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/K-MOHIT1/problems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/K-MOHIT1/problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/K-MOHIT1/problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/K-MOHIT1/problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/K-MOHIT1/problems/tree/master/0300-longest-increasing-subsequence) |
