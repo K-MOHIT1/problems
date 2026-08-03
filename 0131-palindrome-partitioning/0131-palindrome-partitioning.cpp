@@ -1,34 +1,47 @@
 class Solution {
 public:
-
-    bool ispali(string s,int start,int end){
-        while(start<end){
-            if(s[start]!=s[end]) return false;
-            start++;
-            end--;
-        }
-        return true;
-    }
-
-    void recur(int idx,string s,vector<vector<string>>& ans,vector<string> temp){
-        if(idx==s.length()){
-            ans.push_back(temp);
+    void solve(vector<vector<string>>& result,vector<string>&temp,string& s,int i,vector<vector<bool>>& v){
+        if(i==s.size()){
+            result.push_back(temp);
             return;
         }
 
-        for(int i=idx;i<s.size();i++){
-            if(ispali(s,idx,i)){
-                temp.push_back(s.substr(idx,i-idx+1));
-                recur(i+1,s,ans,temp);
+        for(int j=i;j<s.size();j++){
+            if(v[i][j]==true){
+                temp.push_back(s.substr(i,j-i+1));
+                solve(result,temp,s,j+1,v);
                 temp.pop_back();
-
             }
         }
     }
+
     vector<vector<string>> partition(string s) {
-        vector<vector<string>> ans;
+        int n=s.size();
+        vector<vector<bool>> v(n,vector<bool>(n,0));
+        
+        for(int i=0;i<n;i++){
+            v[i][i]=true;
+        }
+
+        for(int l=2;l<=n;l++){
+            for(int i=0;i<n-l+1;i++){
+
+                int j=i+l-1;
+                if(s[i]==s[j]){
+                    if(l==2) v[i][j]=true;
+                    else{
+                        v[i][j]=v[i+1][j-1];
+                    }
+                }
+                else v[i][j]=false;
+
+            }
+        } 
+
+        vector<vector<string>> result;
         vector<string> temp;
-        recur(0,s,ans,temp);
-        return ans;
+        solve(result,temp,s,0,v);
+
+        return result;
     }
 };
