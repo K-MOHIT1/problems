@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/K-MOHIT1/problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/K-MOHIT1/problems/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/K-MOHIT1/problems/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/K-MOHIT1/problems/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/K-MOHIT1/problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-MOHIT1/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/K-MOHIT1/problems/tree/master/0198-house-robber) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/K-MOHIT1/problems/tree/master/0063-unique-paths-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/K-MOHIT1/problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/K-MOHIT1/problems/tree/master/1631-path-with-minimum-effort) |
 ## Minimum Spanning Tree
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/K-MOHIT1/problems/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/K-MOHIT1/problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/K-MOHIT1/problems/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/K-MOHIT1/problems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-MOHIT1/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/K-MOHIT1/problems/tree/master/0131-palindrome-partitioning) |
