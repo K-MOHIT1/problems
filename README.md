@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/K-MOHIT1/problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/K-MOHIT1/problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/K-MOHIT1/problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/K-MOHIT1/problems/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/K-MOHIT1/problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/K-MOHIT1/problems/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/K-MOHIT1/problems/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/K-MOHIT1/problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/K-MOHIT1/problems/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K-MOHIT1/problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/K-MOHIT1/problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/K-MOHIT1/problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/K-MOHIT1/problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/K-MOHIT1/problems/tree/master/0368-largest-divisible-subset) |
+| [0877-stone-game](https://github.com/K-MOHIT1/problems/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/K-MOHIT1/problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/K-MOHIT1/problems/tree/master/1143-longest-common-subsequence) |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/K-MOHIT1/problems/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/K-MOHIT1/problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
