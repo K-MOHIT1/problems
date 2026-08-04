@@ -3,7 +3,7 @@ public:
     vector<int> findMissingElements(vector<int>& nums) {
         int n=nums.size();
         vector<int> ans;
-        set<int> s;
+        unordered_set<int> s;
 
         int sm=INT_MAX;
         int lg=INT_MIN;
