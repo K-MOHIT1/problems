@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K-MOHIT1/problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/K-MOHIT1/problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/K-MOHIT1/problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/K-MOHIT1/problems/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K-MOHIT1/problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/K-MOHIT1/problems/tree/master/1710-maximum-units-on-a-truck) |
 | [3536-maximum-product-of-two-digits](https://github.com/K-MOHIT1/problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/K-MOHIT1/problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
