@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/K-MOHIT1/problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/K-MOHIT1/problems/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/K-MOHIT1/problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/K-MOHIT1/problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/K-MOHIT1/problems/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/K-MOHIT1/problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/K-MOHIT1/problems/tree/master/0141-linked-list-cycle) |
+| [0560-subarray-sum-equals-k](https://github.com/K-MOHIT1/problems/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/K-MOHIT1/problems/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/K-MOHIT1/problems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K-MOHIT1/problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/K-MOHIT1/problems/tree/master/0560-subarray-sum-equals-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/K-MOHIT1/problems/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K-MOHIT1/problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Heap (Priority Queue)
