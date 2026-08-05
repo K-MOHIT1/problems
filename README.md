@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/K-MOHIT1/problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-MOHIT1/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/K-MOHIT1/problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/K-MOHIT1/problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/K-MOHIT1/problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/K-MOHIT1/problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/K-MOHIT1/problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/K-MOHIT1/problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/K-MOHIT1/problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/K-MOHIT1/problems/tree/master/0547-number-of-provinces) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/K-MOHIT1/problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/K-MOHIT1/problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/K-MOHIT1/problems/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/K-MOHIT1/problems/tree/master/0322-coin-change) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/K-MOHIT1/problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/K-MOHIT1/problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/K-MOHIT1/problems/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K-MOHIT1/problems/tree/master/0990-satisfiability-of-equality-equations) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/K-MOHIT1/problems/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/K-MOHIT1/problems/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/K-MOHIT1/problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/K-MOHIT1/problems/tree/master/1631-path-with-minimum-effort) |
 ## Minimum Spanning Tree
